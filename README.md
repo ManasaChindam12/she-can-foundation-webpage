@@ -1,2 +1,11 @@
-# she-can-foundation-webpage
-A simple and user-friendly webpage for She Can Foundation, developed using HTML and CSS. The webpage includes an NGO introduction, about section, image, button, and footer as part of the Frontend Development Internship Task.
+# She Can Foundation Webpage
+
+A simple webpage created using HTML and CSS for the Frontend Development Internship Task.
+
+## Features
+- NGO Name
+- Heading
+- About Section
+- Image
+- Button
+- Footer
